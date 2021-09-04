@@ -13,7 +13,7 @@
 * ###### Concepts to define estimates and margins of errors of populations, parameters, estimates, and standard errors in order to make predictions about data, using models to aggregate data from different sources, basics of Bayesian statistics and predictive modeling.
 
 #### 5. Productivity Tools
-* ###### 
+* ###### Leveraging the many useful features provided by RStudio, using Unix/Linux to manage file system, starting a repository on GitHub, and performing version control with git.
 
 #### 6. Wrangling
 * ###### 
